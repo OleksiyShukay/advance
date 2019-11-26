@@ -1,5 +1,4 @@
 #include <iostream>
-
 class vectorClass {
 private:
   int *arr;
